@@ -1,5 +1,5 @@
 # Image-Historica
-<img src="https://raw.github.com/wiki/Image-Historica/Image-Historica/images/image-historica.png" width="400" height="60">
+<img src="https://raw.github.com/wiki/Image-Historica/Image-Historica/images/image-historica.png" width="400" height="80">
 
 Image-Historica or ImageHistorica is the only one JavaFx-based GUI application for image analysis, appreciation, search, order, import...etc...
 Image-Historica gives fixed naming rule to messy image directories of your PC and automatically sort them to tree table tab interface.
