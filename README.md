@@ -4,11 +4,11 @@
 Image-Historica or ImageHistorica is the only one JavaFx-based GUI application for image analysis, appreciation, search, order, import...etc...
 Image-Historica gives fixed naming rule to messy image directories of your PC and automatically sort them to tree table tab interface.
 
-## Downloads ##
-Downloads are currently hosted at: https://image-historica.com/
+## Downloads
+Downloads are currently hosted at: https://image-historica.com
 Free downloads for Windows at: https://download.image-historica.com/free/windows/ImageHistoricaForFree.zip
 
-## Getting Started ##
+## Getting Started
 You can use Image-Historica right now after downloading by intuitive GUI interface.
 No need to installation.
 No need to JRE.
@@ -30,7 +30,14 @@ Following procedure, if you needed...
 <img src="https://raw.github.com/wiki/Image-Historica/Image-Historica/images/Details.jpg" width="200" height="170">
 
 
-## Acknowledgements ##
+## NOTES
+- The path of exe file can't contain multi-byte path.
+   - ○ - C:\Users\kojima\ImageHistorica\ImageHistorica.exe
+   - × - C:\Users\小島\ImageHistorica\ImageHistorica.exe
+
+- The concept of Image-Historica is to release from annoying troublesome tasks of organizing images, so that don't take a real image, but Historica(=Virtual image)...that is supposing manner...
+  
+## Acknowledgements
 For local database of Image-Historica is applied Berkeley DB:
 http://www.oracle.com/technetwork/database/database-technologies/berkeleydb/overview/index.html
 
