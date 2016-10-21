@@ -5,7 +5,7 @@ Image-Historica or ImageHistorica is the only one JavaFx-based GUI application f
 Image-Historica gives fixed naming rule to messy image directories of your PC and automatically sort them to tree table tab interface.
 
 ## Downloads
-Downloads are currently hosted at: https://image-historica.com/.
+Downloads are currently hosted at: https://image-historica.com/<br>
 Free downloads for Windows at: https://download.image-historica.com/free/windows/ImageHistoricaForFree.zip
 
 ## Getting Started
