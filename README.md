@@ -40,7 +40,7 @@ Following procedure, if you needed...
 For local database of Image-Historica is applied Berkeley DB:
 http://www.oracle.com/technetwork/database/database-technologies/berkeleydb/overview/index.html
 
-A dedupe function scheduled implementaion is supported by LIRE (Lucene Image Retrieval):
+A dedupe function scheduled implementaion future is supported by LIRE (Lucene Image Retrieval):
 https://github.com/dermotte/LIRE
 
 ... and other many projects.
