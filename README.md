@@ -1,5 +1,5 @@
 # Image-Historica
-[![](https://github.com/Image-Historica/Image-Historica/wiki/Image-Historica.png)](https://image-historica.com/)
+<a href="https://image-historica.com/" img src="https://github.com/Image-Historica/Image-Historica/wiki/Image-Historica.png">
 
 Image-Historica or ImageHistorica is the only one JavaFx-based GUI application for image analysis, appreciation, search, order, import...etc...
 Image-Historica gives fixed naming rule to messy image directories of your PC and automatically sort them to tree table tab interface.
@@ -21,11 +21,13 @@ No need to JRE.
 0. Select [Appreciate images] menu, sort and order if you needed.
 
 Following procedure, if you needed...
-0. Search images from independant major search engines and import them to Image-Historica.
-0. Sort and order images.
-0. Embody Historicas(= virtual images) from Berkeley DB to local file system.
+1. Search images from independant major search engines and import them to Image-Historica.
+1. Sort and order images.
+1. Embody Historicas(= virtual images) from Berkeley DB to local file system.
 
 ## Acknowledgements ##
 For local database of Image-Historica is applied Berkeley DB: http://www.oracle.com/technetwork/database/database-technologies/berkeleydb/overview/index.html
+
 A dedupe function scheduled future implementaion is supported by LIRE (Lucene Image Retrieval): https://github.com/dermotte/LIRE
+
 ... and other many projects.
