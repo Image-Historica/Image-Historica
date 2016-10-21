@@ -29,7 +29,7 @@ Following procedure, if you needed...
 <img src="https://raw.github.com/wiki/Image-Historica/Image-Historica/images/Details.jpg" width="200" height="170">
 
 
-## NOTES
+## Notes
 - The path of exe file can't contain multi-byte path.
    - ○ - C:\Users\kojima\ImageHistorica\ImageHistorica.exe
    - × - C:\Users\小島\ImageHistorica\ImageHistorica.exe
