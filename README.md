@@ -1,11 +1,11 @@
 # Image-Historica
-<img src="https://raw.github.com/wiki/Image-Historica/Image-Historica/images/image-historica.png" width="400" height="135">
+<img src="https://raw.github.com/wiki/Image-Historica/Image-Historica/images/image-historica.png" width="400" height="140">
 
 Image-Historica or ImageHistorica is the only one JavaFx-based GUI application for image analysis, appreciation, search, order, import...etc...
 Image-Historica gives fixed naming rule to messy image directories of your PC and automatically sort them to tree table tab interface.
 
 ## Downloads
-Downloads are currently hosted at: https://image-historica.com
+Downloads are currently hosted at: https://image-historica.com/.
 Free downloads for Windows at: https://download.image-historica.com/free/windows/ImageHistoricaForFree.zip
 
 ## Getting Started
@@ -15,10 +15,9 @@ No need to JRE.
 
 0. Download Image-Historica.
 0. Run [ImageHistorica.exe].
-0. Select [Analyze images] menu.
-0. Drag images and drop to [Analyze Image] window.
+0. Select [Analyze images] menu and drag images and drop to the window.
 0. Start analyze image and check result.
-0. Select [Appreciate images] menu, sort and order if you needed.
+0. Select [Appreciate images] menu, and sort and order as you like.
 
 Following procedure, if you needed...
 - Search images from independant major search engines and import them to Image-Historica.
