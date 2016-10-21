@@ -1,0 +1,1 @@
+# This direcotry is the default directory to store ImageHistorica.

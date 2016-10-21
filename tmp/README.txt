@@ -1,0 +1,1 @@
+#This directory is the default directory to store images downloaded from Internet.
