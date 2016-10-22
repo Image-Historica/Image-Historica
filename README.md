@@ -10,8 +10,8 @@ Free downloads for Windows at: https://download.image-historica.com/free/windows
 
 ## Getting Started
 You can use Image-Historica right now after downloading by intuitive GUI interface.<br>
-No need to installation.<br>
-No need to JRE.<br>
+No need to install.<br>
+No need JRE.<br>
 
 0. Download Image-Historica.
 0. Run [ImageHistorica.exe].
