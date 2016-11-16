@@ -31,13 +31,13 @@ Following procedure, if you needed...
 
 ## Notes
 - The path of exe file can't contain multi-byte path.
-   - ○ - C:\Users\kojima\ImageHistorica\ImageHistorica.exe
-   - × - C:\Users\小島\ImageHistorica\ImageHistorica.exe
+   - ○ - C:\Users\ImageHistorica\ImageHistorica.exe
+   - × - C:\Users\イメージヒストリカ\ImageHistorica.exe
 
 - The concept of Image-Historica is to release from annoying troublesome tasks of organizing images, so that don't take a real image, but Historica(=Virtual image)...that is the supposing manner...
   
 ## Acknowledgements
-For local database of Image-Historica is applied Berkeley DB:
+For local database of Image-Historica is applied Berkeley DB:<br>
 http://www.oracle.com/technetwork/database/database-technologies/berkeleydb/overview/index.html
 
 A dedupe function scheduled implementaion future is supported by LIRE (Lucene Image Retrieval):
